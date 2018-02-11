@@ -2,7 +2,7 @@ title: 점검중
 description: We are currently under maintenance.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
